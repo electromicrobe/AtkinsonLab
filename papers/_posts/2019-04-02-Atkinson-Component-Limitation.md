@@ -1,0 +1,15 @@
+---
+layout: paper
+title: "Overcoming component limitations in synthetic biology through transposon-mediated protein engineering"
+image: /images/papers/2019_atkinson_transposon.png
+authors: Atkinson JT, Wu B, Segatori L, and Silberg JJ
+year: 2019
+ref: Atkinson et al. 2019. Methods Enzymol.
+journal: "Methods Enzymol. 621: 191-212"
+pdf: /pdfs/papers/2019_atkinson_transposon-mediated-protein engineering.pdf
+doi: 10.1016/bs.mie.2019.02.014
+---
+
+# Abstract
+
+Deep mutational scanning has been used to create high-resolution DNA sequence maps that illustrate the functional consequences of large numbers of point mutations. However, this approach has not yet been applied to libraries of genes created by random circular permutation, an engineering strategy that is used to create open reading frames that express proteins with altered contact order. We describe a new method, termed circular permutation profiling with DNA sequencing (CPP-seq), which combines a one-step transposon mutagenesis protocol for creating libraries with a functional selection, deep sequencing and computational analysis to obtain unbiased insight into a protein's tolerance to circular permutation. Application of this method to an adenylate kinase revealed that CPP-seq creates two types of vectors encoding each circularly permuted gene, which differ in their ability to express proteins. Functional selection of this library revealed that >65% of the sampled vectors that express proteins are enriched relative to those that cannot translate proteins. Mapping enriched sequences onto structure revealed that the mobile AMP binding and rigid core domains display greater tolerance to backbone fragmentation than the mobile lid domain, illustrating how CPP-seq can be used to relate a protein's biophysical characteristics to the retention of activity upon permutation.
