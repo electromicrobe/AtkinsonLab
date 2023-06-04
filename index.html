@@ -7,7 +7,7 @@ categories:
 
 <div class="row">
 	<div class="col-lg-12">
-		<object class="pull-left biglogo" data="/images/DNA_Enso.jpg" type="image/jpg"></object>
+		<object class="pull-left biglogo" data="/images/Temp_Art.png" type="image/png"></object>
 		<div class="bigtitle logobox">
 			Atkinson lab 
 		</div>
@@ -19,9 +19,11 @@ categories:
 <div class="row">
 	<div class="col-lg-12">
 		<div class="smallhead">
-      <p>
-        The Atkinson Lab at the <a class="off" href="https://bioengineering.princeton.edu/">Princeton Bioengineering Institute</a> and <a class="off" href="https://www.princeton.edu/academics/area-of-study/civil-and-environmental-engineering/"> Department of Civil and Environmental Engineering</a> use protein engineering and synthetic biology approaches to control bioenergetic processes in bacteria
-      </p>
+        Microbial metabolism is a profound source of innovation that has global-scale impacts. Diverse metabolic pathways are linked through trophic networks enabling electrons to flow through ecosystems and drive the geochemical cycles of our planet. As microbes colonized diverse ecosystems, they evolved a range of proteins to control electron flow across spatial scales that span seven orders of magnitude (from the nm to cm scale).
+		<br><br>
+		The Atkinson Lab at the <u><a class="off" href="https://bioengineering.princeton.edu/">Princeton Bioengineering Institute</a></u> and <u><a class="off" href="https://www.princeton.edu/academics/area-of-study/civil-and-environmental-engineering/"> Department of Civil and Environmental Engineering</a></u> focuses on using protein engineering and synthetic biology approaches to leverage electroactive proteins to (1) interface bacteria with electronic devices, and (2) control geochemical cycles by altering how electrons flow through metabolic networks and ecosystems. 
+		<br><br>
+		Our work is delivering fundamental insights into the biophysical properties that enable microbial redox proteins to interact with insoluble materials, including electrical devices, to improve our information processing and catalytic capabilities.
 		</div>
 	</div>
 </div>
@@ -50,7 +52,6 @@ categories:
 	<div class="col-lg-3 reduced-gutter">
 		<div class="pad-left">
 			<div class="note">
-				<i class="fa fa-comment-o fa-fw"></i>
 				<a class="off" href="{{ post.url }}">
 				{{ post.title }}
 				</a>
@@ -115,7 +116,6 @@ categories:
 	<div class="col-lg-3 reduced-gutter">
 		<div class="pad-left">
 			<div class="note">
-				<i class="fa fa-file-text-o fa-fw"></i>
 				<a class="off" href="{{ paper.url }}">
 				{{ paper.title }}
 				</a>
@@ -147,7 +147,6 @@ categories:
 	<div class="col-lg-3 reduced-gutter">
 		<div class="pad-left">
 			<div class="note">
-				<i class="fa fa-edit fa-fw"></i>
 				<a class="off" href="{{ project.url }}">
 				{{ project.title }} - {{ project.description }}
 				</a>
@@ -171,42 +170,51 @@ categories:
 
 <div class="spacer"></div>
 
+
+<hr class="thin">
 <div class="row">
 	<div class="col-lg-12">
-		<div class="head">
-			Misc
-		</div>
-		<div class="spacer"></div>
-	</div>
-</div>
-
-<div class="row">
-	<div class="col-lg-12 reduced-gutter">
 		<div class="pad-left">
-			<ul class="list-inline">
-				{% for page in site.categories.misc %}
-				<li class="footernav list-inline-item">
-					<i class="fa fa-angle-right"></i> <a class="off" href="{{ page.url }}">{{ page.title }}</a>
-				</li>
-				{% endfor %}
-				<li class="footernav list-inline-item">
-					<i class="fa fa-angle-right"></i> <a class="off" href="/talks/">Talks</a>
-				</li>
-			</ul>
+		<div class="float-lg-right" style="vertical-align: bottom; display: table-cell;">
+		  <a class="off" href="https://www.princeton.edu/">
+			<img width=300 src="/images/logos/pu-logo.svg">
+		  </a>
+		  <div class="spacer"></div>
+		  <div class="spacer"></div>
 		</div>
+	</div>
+
+	<div class="pad-left">
+		{% for page in site.categories.misc %}
+		<div class="col-sm-3">
+			<a class="off" href="{{ page.url }}">{{ page.title }}</a>
+		<div class="spacer"></div>
+		</div>
+		{% endfor %}
+
+		<div class="col-sm-3">
+				<a class="off" href="/talks/">Talks</a>
+			<div class="spacer"></div>
+		</div>
+
+		<div class="col-sm-3">
+			<i class="fa fa-twitter fa-fw"></i><a class="off" href="https://twitter.com/meeeeechigan">Twitter</a>
+			<div class="spacer"></div>
+		</div>
+
+		</div>
+	</div>
+
+
+
+	<div class="col-lg-12 reduced-gutter">
+		
 		<div class="spacer"></div>
 	</div>
 </div>
 
 <div class="row">
-  <div class="col-lg-12">
-    <div class="float-lg-left" style="vertical-align: bottom; display: table-cell;">
-      <a class="off" href="https://www.princeton.edu/">
-        <img width=300 src="/images/logos/pu-logo.svg">
-      </a>
-      &nbsp; &nbsp; &nbsp; &nbsp;
-    </div>
-  </div>
+
 </div>
 
 <a style="display:none;" rel="me" href="https://mstdn.science/@trvrb">Hidden Mastodon Link for Verification</a>

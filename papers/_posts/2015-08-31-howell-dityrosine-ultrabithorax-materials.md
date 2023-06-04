@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: Identification of multiple dityrosine bonds in materials composed of the <i>Drosophila </i> protein Ultrabithorax
+title: Identification of multiple dityrosine bonds in materials composed of the <i>Drosophila</i> protein Ultrabithorax
 image: /images/papers/2015_Howell.png
 authors: Howell DW, Tsai S, Churion K, Patterson J, Abbey C, Atkinson JT, Porterpan D, You Y, Meissner KE, Bayless KJ, and Bondos SE
 year: 2015

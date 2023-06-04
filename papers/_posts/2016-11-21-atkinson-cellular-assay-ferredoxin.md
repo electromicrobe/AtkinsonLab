@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: Cellular Assays for Ferredoxins A Strategy for Understanding Electron Flow through Protein Carriers That Link Metabolic Pathways
+title: "Cellular Assays for Ferredoxins: A Strategy for Understanding Electron Flow through Protein Carriers That Link Metabolic Pathways"
 image: /images/papers/2016_atkinson_Fd.gif
 authors: Atkinson JT, Campbell I, Bennett GN, and Silberg JJ
 year: 2016
