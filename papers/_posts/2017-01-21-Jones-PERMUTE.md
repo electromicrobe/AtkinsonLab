@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "PERMutation using transposase engineering (PERMUTE): A simple approach for constructing circularly permuted protein libraries"
+title: "PERMutation Using Transposase Engineering (PERMUTE): A simple approach for constructing circularly permuted protein libraries"
 image: /images/papers/2017_jones_PERMUTE.png
 authors: Jones AM, Atkinson JT, and Silberg JJ
 year: 2017
