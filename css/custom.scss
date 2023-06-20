@@ -1,4 +1,4 @@
-$primary: #DD2D2D;
+$primary: #ED6D0B;
 $gray: #555;
 $gray-light: #777;
 $line-height-base: 1.6;
@@ -64,6 +64,7 @@ h6 {
 	/* Museo */
 }
 
+
 .center {
   float: none;
   margin-left: auto;
@@ -87,16 +88,25 @@ b, strong {
 }
 
 .biglogo {
-	width: 170px;
-	height: 170px;
+	width: 325px;
+	height: 110px;
 	padding: 5px;
+	
+	// position: relative;
+	// left: 50%;
+	// transform: translateX(-50%);
 }
 
 .logobox {
-	height: 170px;
+	height: 110px;
 	display: table-cell;
 	vertical-align: middle;
 }
+
+.media {
+	padding-left:60px;
+	padding-right:40px ;
+  }
 
 /* navbar */
 
@@ -118,8 +128,8 @@ b, strong {
 }
 
 .bg-navbar {
-  background: #f8f8f8;
-  border-bottom: 1px solid #e7e7e7;
+  background: #ffffff;
+  border-bottom: 1px solid #ffffff;
 }
 
 .nav-brand a {
@@ -176,21 +186,28 @@ b, strong {
 }
 
 .smallhead {
-	font-size: 19px;
+	font-size: 20px;
 	font-weight: 300;
-	line-height: 23px;
-	/* Museo */
+	line-height: 26px;
+	/* Aleo */
 }
 
-.note {
-	font-size: 15px;
+.paperlink {
+	font-size: 20px;
 	font-weight: 300;
-	line-height: 18px;
+	line-height: 26px;
+	color: #ED6D0B;
+	/* Aleo */
+}
+.note {
+	font-size: 18px;
+	font-weight: 300;
+	line-height: 20px;
 	/* Museo */
 }
 
 .smallnote {
-	font-size: 13px;
+	font-size: 14px;
 	font-weight: 300;
 	line-height: 16px;
 	/* Museo */

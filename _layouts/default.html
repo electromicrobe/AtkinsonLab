@@ -13,9 +13,13 @@
   <link href="/css/style.css" rel="stylesheet" media="screen">
 
 	<!-- Favicon -->
-	<link rel="shortcut icon" href="/images/favicon.png"/>
+	<link rel="shortcut icon" href="/images/favicon.svg"/>
 
-	<!-- Typekit -->
+	<!-- Google Fonts -->
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=Aleo:400,400i&display=swap" rel="stylesheet">
+	
+	<!-- Typekit
 	<script>
 		(function(d) {
 		  var config = {
@@ -25,7 +29,7 @@
 		  },
 		  h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
 		})(document);
-	  </script>
+	  </script> -->
 
 	<!-- Google Analytics -->
 	<script>
@@ -54,7 +58,8 @@
 			<div class="container">
 				{% if page.categories.first != 'home' %}
 				<a class="navbar-brand" href="/">
-					<img class="logo navbar-brand d-inline-block align-top ml-0 mr-1" src="/images/DNA_enso.jpg">
+					<!-- <img class="logo navbar-brand d-inline-block align-top ml-0 mr-1" src="/images/AtkinsonLab_notext.png"> -->
+					<!-- <img class="d-inline-block align-top" width="250" height="84.375" src="/images/AtkinsonLab_notext.png"> -->
 					<b>Atkinson Lab</b>
 				</a>
 				{% else %}

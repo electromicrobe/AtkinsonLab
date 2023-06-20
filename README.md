@@ -1,4 +1,8 @@
-# bedford lab research
+# atkinson lab website
+
+heaviliy modified clone of https://github.com/blab/blotter.git
+
+
 
 ## Build site
 

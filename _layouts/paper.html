@@ -16,9 +16,10 @@ layout: default
     {{ page.title }}
    </div>
    <div class="smallhead">
-    {{ page.authors }}
-    {{ page.year }}.
-    {{ page.journal }}
+    {{ page.authors }}.
+    ({{ page.year }})
+    <i>{{ page.journal }}</i>
+	{{ page.issue }}
    </div>
   </div>
  </div>
@@ -33,13 +34,14 @@ layout: default
 			{% if page.pdf %}
 			<div class="smallhead">
 				PDF
+				<a class="off" href="{{ page.pdf }}"><i class="fa fa-file-pdf-o fa-fw"></i></a>
 			</div>
-			<div class="pad-left note">
+			<!-- <div class="pad-left note">
 				<div class="smallspacer"></div>
 				<i class="fa fa-file-text-o fa-fw"></i>
 				<a class="off" href="{{ page.pdf }}">{{ page.pdf | split: '/' | last }}</a>
-			</div>
-			<div class="bigspacer"></div>
+			</div> -->
+			<div class="smallspacer"></div>
 			{% endif %}
 			{% if page.supplement %}
 			<div class="smallhead">
@@ -54,25 +56,27 @@ layout: default
 			{% endif %}
 			{% if page.doi %}
 			<div class="smallhead">
-				DOI
+				HTML
+				<a class="off" href="https://doi.org/{{ page.doi }}"><i class="fa fa-external-link fa-fw"></i></a>
 			</div>
-			<div class="pad-left note">
+			<!-- <div class="pad-left note">
 				<div class="smallspacer"></div>
 				<i class="fa fa-external-link fa-fw"></i>
 				<a class="off" href="https://doi.org/{{ page.doi }}">{{ page.doi }}</a>
-			</div>
-			<div class="bigspacer"></div>
+			</div> -->
+			<div class="smallspacer"></div>
 			{% endif %}
 			{% if page.github %}
 			<div class="smallhead">
 				GitHub
+				<a class="off" href="{{ page.github }}"><i class="fa fa-github-alt fa-fw"></i></a>
 			</div>
-			<div class="pad-left note">
+			<!-- <div class="pad-left note">
 				<div class="smallspacer"></div>
 				<i class="fa fa-github-alt fa-fw"></i>
 				<a class="off" href="{{ page.github }}">{{ page.github | remove: 'http://github.com/' | remove: 'https://github.com/' | replace: "/", "/<wbr>" | replace: "_", "_<wbr>" }}</a>
-			</div>
-			<div class="bigspacer"></div>
+			</div> -->
+			<div class="smallspacer"></div>
 			{% endif %}
 			{% if page.website %}
 			<div class="smallhead">

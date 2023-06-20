@@ -7,14 +7,15 @@ twitter: meeeeechigan
 github: jatk
 scholar: YEvcaogAAAAJ
 image: /images/team/josh_atkinson.jpg
-cv: /pdfs/team/trevor-bedford-cv.pdf
+cv: /pdfs/team/Atkinson_CV.pdf
 email: josh.t.atkinson@gmail.com
 alumni: false
 ---
 
-I'm a Professor at the [Fred Hutchinson Cancer Research Center](https://www.fredhutch.org/) in the [Vaccine and Infectious Disease Division](https://www.fredhutch.org/en/labs/vaccine-and-infectious-disease.html) and the [Computational Biology Program](https://www.fredhutch.org/en/labs/phs/projects/herbold-computational-biology-program.html), affiliate faculty in the [Department of Genome Sciences](https://www.gs.washington.edu) and the [Department of Epidemiology](https://epi.washington.edu/) at the [University of Washington](https://www.washington.edu/), and an Investigator at the [Howard Hughes Medical Institute](https://www.hhmi.org/).
+I'm a Professor at [Princeton University](https://www.princeton.edu/) in the [Department of Civil and Environmental Engineering](https://cee.princeton.edu/) and the [Princeton Bioengineering Institute](https://bioengineering.princeton.edu/).
 
-My research program focuses on using viral genome sequences to understand virus evolution and to gain insight into factors driving viral outbreaks, epidemics and pandemics.
-Much of this work has been instantiated in the [Nextstrain](https://nextstrain.org/) platform to conduct real-time genomic epidemiology and to share results broadly.
-This platform has seen substantial public health adoption to improve seasonal influenza vaccines, combat Ebola outbreaks and to understand and curb SARS-CoV-2 transmission.
-More broadly, I've sought to progress genomic surveillance and with the [Seattle Flu Study](https://seattleflu.org/), lead the design and implementation of a next-generation infectious disease surveillance system that greatly impacted state and local response to the COVID-19 pandemic.
+My research program focuses on using protein engineering and synthetic biology approaches to study and control bioenergetic processes in bacteria. I am fascinated by bacterial metabolism and the proteins that have evolved to transport electrons and conserve energy and redox meabolism influences the structure of microbial communities and drive Earth's geochemical cycles. 
+
+Prior to joining Princeton, I was an NSF Postodoctoral Fellow jointly in the lab of [Moh El-Naggar](http://www.elnaggarlab.org/) at the University of Southern California in Los Angeles, CA, USA and the [Center for Electromicrobiology](https://bio.au.dk/forskning/forskningscentre/center-for-elektromikrobiologi-cem/) at Aarhus University in Aarhus, DK. I obtained my Ph.D. in [Systems, Synthetic, and Physical Biology](https://sspb.rice.edu/) at Rice University in Houston, TX, USA. There I worked in [Jonathan Silberg](https://www.silberglab.org/)'s lab building ligand-gated protein switches to control electron transfer to control sulfur assimilation in _Escherichia coli_. I did part of my Ph.D. at Lawrence Berkeley National Lab in Berkeley, CA, USA where I collaborated with [Caroline Ajo-Franklin](http://cafgroup.rice.edu/) at the Molecular Foundry.
+
+More broadly, I've sought to promote eduction in engineering biology and microbial electrochemsistry through hands-on outreach and open access [curricula development](https://ebrc.org/curriculum-module-introduction-to-engineering-biology/). 
