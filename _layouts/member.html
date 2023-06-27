@@ -4,12 +4,18 @@ layout: default
 
 {% assign member = page %}
 
-<div class="row">
-	<div class="col-lg-12">
-		{% if member.image %}
-		<img class="pull-left pad-right media-object d-none d-sm-block" src="{{ member.image }}" width=250>
-		{% endif %}
-		<div class="titlebox">
+<div class="container">
+	<div class="row no-gutters">
+		<div class="col-md-3">
+			{% if member.image %}
+			<div class="d-flex">
+				<div class="image-container">
+					<img src="{{ member.image }}" class="rounded-circle" width=250>
+				</div>
+			</div>
+			{% endif %}
+		</div>
+		<div class="col-md-8">
 			<div class="bigtitle">
 				{{ member.title }}
 			</div>
@@ -124,10 +130,12 @@ layout: default
 		{% if papersq == true %}
 		<div class="bigspacer"></div>
 		<div class="head">Papers</div>
-		<div class="spacer"></div>
+
 		{% for paper in site.categories.papers %}
 		{% if paper.authors contains searchstring %}
-		<p><a href="{{ paper.url }}" class="off">{{ paper.title }}</a>
+
+		⚬ <a href="{{ paper.url }}" class="off">{{ paper.title }}</a><br>
+
 		{% endif %}
 		{% endfor %}
 		{% endif %}

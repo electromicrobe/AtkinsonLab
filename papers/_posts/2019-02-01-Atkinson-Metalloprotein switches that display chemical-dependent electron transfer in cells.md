@@ -6,8 +6,8 @@ year: 2019
 ref: Atkinson et al. 2019. Nat. Chem. Biol.
 journal: "Nature Chemical Biology"
 issue: "15: 189-195"
-pdf: /pdfs/papers/2019_Overcoming component limitations in synthetic biology through transposon-mediated protein engineering.pdf
 doi: 10.1038/s41589-018-0192-3
+pdf: /pdfs/papers/2019_Atkinson JT_Metalloprotein switches that display chemical-dependent electron transfer in cells.pdf
 featured: True
 ---
 

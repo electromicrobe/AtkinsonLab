@@ -37,6 +37,19 @@ h6, .h6 { font-size: ceil($font-size-base * 0.85); }  /* ~12px */
   padding-right: 10px;
   padding-left: 10px;
 }
+.no-gutters {
+	margin-right: 0;
+	margin-left: 0;
+  }
+  
+.image-container {
+	display: flex;
+	align-items: center;
+}
+
+.image-container img {
+	margin-right: 20px;
+}
 
 /* typekit */
 
@@ -206,6 +219,13 @@ b, strong {
 	/* Museo */
 }
 
+.post {
+	font-size: 18px;
+	font-weight: 300;
+	line-height: 20px;
+	/* Museo */
+}
+
 .smallnote {
 	font-size: 14px;
 	font-weight: 300;
@@ -226,6 +246,10 @@ b, strong {
   font-size: 13px;
 }
 
+.team-image{
+	padding-right: 0.6rem;
+
+}
 /* other */
 
 body {
@@ -322,6 +346,15 @@ blockquote {
 .postbox {
 	min-height: 80px;
 }
+.ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+
+.li {
+    display: inline;
+  }
 
 .paperbox {
 	min-height: 140px;

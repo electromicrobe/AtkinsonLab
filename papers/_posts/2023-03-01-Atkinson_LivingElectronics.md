@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "Living Electronics: A catalog of engineered living electronic components"
+title: "Living electronics: a catalog of engineered living electronic components"
 authors: Atkinson JT, Chavez MS, Niman C, and El-Naggar MY
 year: 2023
 ref: Atkinson et al. 2023. Microb. Biotechnol.

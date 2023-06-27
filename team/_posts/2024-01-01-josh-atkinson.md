@@ -12,7 +12,7 @@ email: josh.t.atkinson@gmail.com
 alumni: false
 ---
 
-I'm a Professor at [Princeton University](https://www.princeton.edu/) in the [Department of Civil and Environmental Engineering](https://cee.princeton.edu/) and the [Princeton Bioengineering Institute](https://bioengineering.princeton.edu/).
+I'm an Assistant Professor at [Princeton University](https://www.princeton.edu/) in the [Department of Civil and Environmental Engineering](https://cee.princeton.edu/) and the [Princeton Bioengineering Institute](https://bioengineering.princeton.edu/).
 
 My research program focuses on using protein engineering and synthetic biology approaches to study and control bioenergetic processes in bacteria. I am fascinated by bacterial metabolism and the proteins that have evolved to transport electrons and conserve energy and redox meabolism influences the structure of microbial communities and drive Earth's geochemical cycles. 
 
