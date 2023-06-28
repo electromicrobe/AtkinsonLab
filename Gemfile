@@ -5,7 +5,7 @@ gem "jekyll", "4.2.0"
 
 # katex
 gem "execjs"
-gem "mini_racer"
+#gem "mini_racer"
 
 # octokit
 gem 'octokit'
