@@ -3,7 +3,7 @@ $gray: #555;
 $gray-light: #777;
 $line-height-base: 1.6;
 $font-size-base: 0.875rem;
-$font-weight-bolder: bold;
+$font-weight-bolder: 700;
 $body-bg: #ffffff;
 $code-color: #586E75;
 $pre-color: #586E75;
@@ -90,7 +90,7 @@ h6 {
 
 // also modify Bootstrap source in _reboot.scss
 b, strong {
-  font-weight: bold;
+  font-weight: $font-weight-bolder;
 }
 
 /* logo */
@@ -253,7 +253,7 @@ b, strong {
 /* other */
 
 body {
-	font-weight: 300;
+	font-weight: 100;
 }
 
 p {
