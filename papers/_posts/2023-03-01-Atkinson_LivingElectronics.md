@@ -6,7 +6,7 @@ year: 2023
 ref: Atkinson et al. 2023. Microb. Biotechnol.
 journal: "Microbial Biotechnology"
 issue: "16(3): 507-533"
-pdf: https://ami-journals.onlinelibrary.wiley.com/doi/epdf/10.1111/1751-7915.14171
+pdf: /pdfs/papers/2023_Atkinson_Living electronics  A catalogue of engineered living electronic components
 doi: 10.1111/1751-7915.14171
 featured: True
 

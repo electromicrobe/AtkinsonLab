@@ -5,7 +5,7 @@ layout: default
 {% if page.image %}
  <div class="row">
   <div class="col-xl-12"> 
-   <img class="mx-auto d-block" src="{{ page.image }}">
+   <img class="mx-auto d-block" width=300 src="{{ site.url }}{{ site.baseurl }}{{ page.image }}">
   </div>
  </div>
 {% endif %}
@@ -34,7 +34,7 @@ layout: default
 			{% if page.pdf %}
 			<div class="smallhead">
 				PDF
-				<a class="off" href="{{ page.pdf }}"><i class="fa fa-file-pdf-o fa-fw"></i></a>
+				<a class="off" href="{{ site.url }}{{ site.baseurl }}{{ page.pdf }}"><i class="fa fa-file-pdf-o fa-fw"></i></a>
 			</div>
 			<!-- <div class="pad-left note">
 				<div class="smallspacer"></div>
@@ -50,7 +50,7 @@ layout: default
 			<div class="pad-left note">
 				<div class="smallspacer"></div>
 				<i class="fa fa-paperclip fa-fw"></i>
-				<a class="off" href="{{ page.supplement }}">{{ page.supplement | split: '/' | last }}</a>
+				<a class="off" href="{{ site.url }}{{ site.baseurl }}{{ page.supplement }}">{{ page.supplement | split: '/' | last }}</a>
 			</div>
 			<div class="bigspacer"></div>
 			{% endif %}

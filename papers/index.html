@@ -55,7 +55,7 @@ categories:
           <br>
           <i>{{ paper.journal }}</i> {{ paper.issue }} 
           {% if paper.pdf %}
-            <a class="off" href="{{ paper.pdf }}"><i class="fa fa-file-pdf-o fa-fw"></i></a>
+            <a class="off" href="{{ site.url }}{{ site.baseurl }}{{ paper.pdf }}"><i class="fa fa-file-pdf-o fa-fw"></i></a>
           {% endif %}
 			    {% if paper.supplement %}
             <!-- Insert supplement link -->
@@ -66,11 +66,16 @@ categories:
           {% if paper.github %}
             <a class="off" href="{{ paper.github }}"><i class="fa fa-github-alt fa-fw"></i></a>
           {% endif %}
+          {% if paper.website %}
+            <a class="off" href="{{ paper.website }}"><i class="fa fa-globe fa-fw"></i></a>
+          {% endif %}
         </p>
       </div>
-      <a href="{{ paper.url }}">
-        <img class="ml-3" width=100 class="media-object" src="{{ paper.image }}">
+      {% if paper.image %}
+      <a href="{{ site.url }}{{ site.baseurl }}{{ paper.url }}">
+        <img class="ml-3" width=100 class="media-object" src="{{ site.url }}{{ site.baseurl }}{{ paper.image }}">
       </a>
+      {% endif %}
     </div>
     <div class="smallspacer"></div>
       </div>

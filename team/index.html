@@ -21,10 +21,10 @@ categories:
 		<div class="col-lg-4 memberbox">
 			<div class="media">
   				<a class="float-left" href="{{ member.url }}">
-    				<img width=200 class="team-image rounded-circle" src="{{ member.image }}">
+    				<img width=200 class="team-image rounded-circle" src="{{ site.url }}{{ site.baseurl }}{{ member.image }}">
   				</a>
  			 	<div class="media-body">
-    				<div class="head mb-1"><a href="{{ member.url }}" class="off">{{ member.title }}</a></div>
+    				<div class="head mb-1"><a href="{{ site.url }}{{ site.baseurl }}{{ member.url }}" class="off">{{ member.title }}</a></div>
     				<p class="note">{{ member.position }}</p>
   				</div>
 			</div>
@@ -57,7 +57,7 @@ categories:
   				</a>
   				-->
  			 	<div class="media-body">
-    				<div class="head media-heading"><a href="{{ member.url }}" class="off">{{ member.title }}</a></div>
+    				<div class="head media-heading"><a href="{{ site.url }}{{ site.baseurl }}{{ member.url }}" class="off">{{ member.title }}</a></div>
     				<p class="note">{{ member.position }}</p>
   				</div>
 			</div>

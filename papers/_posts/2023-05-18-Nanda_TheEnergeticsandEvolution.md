@@ -8,7 +8,7 @@ journal: "Authorea"
 issue: ""
 doi: 10.22541/au.168439504.41026088/v1 
 website: https://protein-redox-potential.web.app
-pdf: https://www.authorea.com/doi/pdf/10.22541/au.168439504.41026088/v1
+pdf: /pdfs/papers/2023_Nanda_The energetics and evolution of oxidoreductases in deep time.pdf
 ---
 
 ## Abstract

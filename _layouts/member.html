@@ -10,7 +10,7 @@ layout: default
 			{% if member.image %}
 			<div class="d-flex">
 				<div class="image-container">
-					<img src="{{ member.image }}" class="rounded-circle" width=250>
+					<img src="{{ site.url }}{{ site.baseurl }}{{ member.image }}" class="rounded-circle" width=250>
 				</div>
 			</div>
 			{% endif %}
@@ -38,7 +38,7 @@ layout: default
 		<div class="pad-left note">
 			<div class="smallspacer"></div>
 			<i class="fa fa-file-text-o fa-fw"></i>
-			<a class="off" href="{{ member.cv }}">{{ member.cv | split: '/' | last }}</a>
+			<a class="off" href="{{ site.url }}{{ site.baseurl }}{{ member.cv }}">{{ member.cv | split: '/' | last }}</a>
 		</div>
 		<div class="bigspacer"></div>
 		{% endif %}
@@ -134,7 +134,7 @@ layout: default
 		{% for paper in site.categories.papers %}
 		{% if paper.authors contains searchstring %}
 
-		⚬ <a href="{{ paper.url }}" class="off">{{ paper.title }}</a><br>
+		⚬ <a href="{{ site.url }}{{ site.baseurl }}{{ paper.url }}" class="off">{{ paper.title }}</a><br>
 
 		{% endif %}
 		{% endfor %}
@@ -160,7 +160,7 @@ layout: default
 				{% endif %}
 			{% endfor %}
 			{% if present == true %}
-				<p><a href="{{ project.url }}" class="off">{{ project.title }} - {{ project.description }}</a>
+				<p><a href="{{ site.url }}{{ site.baseurl }}{{ project.url }}" class="off">{{ project.title }} - {{ project.description }}</a>
 			{% endif %}
 		{% endfor %}
 		{% endif %}
@@ -187,7 +187,7 @@ layout: default
 			{% for post in site.categories.blog %}
 				{% if post.author %}
 					{% if member.title == post.author %}
-						<p><a href="{{ post.url }}" class="off">{{ post.title }}</a>
+						<p><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" class="off">{{ post.title }}</a>
 					{% endif %}
 				{% endif %}
 				{% if post.authors %}
@@ -198,7 +198,7 @@ layout: default
 						{% endif %}
 					{% endfor %}
 					{% if found %}
-						<p><a href="{{ post.url }}" class="off">{{ post.title }}</a>
+						<p><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" class="off">{{ post.title }}</a>
 					{% endif %}
 				{% endif %}
 			{% endfor %}

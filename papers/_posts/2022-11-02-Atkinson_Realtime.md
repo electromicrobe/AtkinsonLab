@@ -6,7 +6,7 @@ year: 2022
 ref: Atkinson et al. 2022. Nature.
 journal: "Nature"
 issue: "611: 548–553"
-pdf: https://www.nature.com/articles/s41586-022-05356-y.epdf?sharing_token=vBeS5XJZYJ0GeDvsgQe4rtRgN0jAjWel9jnR3ZoTv0MXinwwV3gnu7Te6Dfm7ul1yBfntjtdInC5r_grWVv1tlZzD1UQF2WyGhy9YxJgGIjGILUNQqm-9Jfg6kzbDVC7ip1eaXzev9zliSYD-OHGoBXRJyGBYqhj5WTSamZ5A-s%3D
+pdf: /pdfs/papers/2022_Atkinson_Real-time bioelectronic sensing of environmental contaminants.pdf
 doi: 10.1038/s41586-022-05356-y
 featured: True
 ---
