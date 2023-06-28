@@ -10,6 +10,7 @@ sass:
 
 plugins: ['jekyll-twitter-plugin']
 
+include: ['team', 'projects']
 exclude:
   - "*.branches"
   - "*.class"
