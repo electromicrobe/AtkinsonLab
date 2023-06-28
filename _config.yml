@@ -1,6 +1,6 @@
 name: Atkinson Lab Research
 description: Science updates from the Atkinson lab at the Princeton
-url: http://bedford.io
+url: electromicrobe.github.io/AtkinsonLab
 
 markdown: kramdown
 permalink: /:categories/:title/
