@@ -1,6 +1,6 @@
 name: Atkinson Lab Research
 description: Science updates from the Atkinson lab at the Princeton
-url: https://electromicrobe.github.io
+#url: electromicrobe.github.io
 baseurl: /AtkinsonLab
 
 markdown: kramdown
@@ -11,7 +11,6 @@ sass:
 
 plugins: ['jekyll-twitter-plugin']
 
-include: ['team', 'projects']
 exclude:
   - "*.branches"
   - "*.class"

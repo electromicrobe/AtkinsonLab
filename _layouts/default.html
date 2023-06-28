@@ -9,11 +9,11 @@
 	<!-- RSS feed -->
 	<link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml">
 
-  <!-- Customized Bootstrap + Font Awesome + Solarized -->
-  <link href="{{/css/style.css  | relative_url }}" rel="stylesheet" media="screen">
+	<!-- Customized Bootstrap + Font Awesome + Solarized -->
+	<link href="{{ site.url }}{{ site.baseurl }}/css/style.css" rel="stylesheet" media="screen">
 
 	<!-- Favicon -->
-	<link rel="shortcut icon" href="/images/favicon.svg"/>
+	<link rel="shortcut icon" href="{{ site.url }}{{ site.baseurl }}/images/favicon.svg"/>
 
 	<!-- Google Fonts -->
 	<link rel="preconnect" href="https://fonts.gstatic.com">
@@ -76,40 +76,40 @@
 						{% else %}
 						<li class="nav-link">
 						{% endif %}
-						<a class="mx-1" href="/projects/">research</a></li>
+						<a class="mx-1" href="{{ site.url }}{{ site.baseurl }}/projects/">research</a></li>
 						{% if page.categories.first == 'papers' %}
 						<li class="nav-link active">
 						{% else %}
 						<li class="nav-link">
 						{% endif %}
-						<a class="mx-1" href="/papers/">papers</a>
+						<a class="mx-1" href="{{ site.url }}{{ site.baseurl }}/papers/">papers</a>
 						</li>
 						{% if page.categories.first == 'blog' %}
 						<li class="nav-link active">
 						{% else %}
 						<li class="nav-link">
 						{% endif %}
-						<a class="mx-1" href="/blog/">news</a>
+						<a class="mx-1" href="{{ site.url }}{{ site.baseurl }}/blog/">news</a>
 						</li>
 						{% if page.categories.first == 'team' %}
 						<li class="nav-link active">
 						{% else %}
 						<li class="nav-link">
 						{% endif %}
-						<a class="mx-1" href="/team/">team</a></li>
+						<a class="mx-1" href="{{ site.url }}{{ site.baseurl }}/team/">team</a></li>
 						{% if page.categories.first == 'contact' %}
 						<li class="nav-link active">
 						{% else %}
 						<li class="nav-link">
 						{% endif %}
-						<a class="mx-1" href="/misc/contact">contact</a>
+						<a class="mx-1" href="{{ site.url }}{{ site.baseurl }}/misc/contact">contact</a>
 						</li>
 						{% if page.categories.first == 'join' %}
 						<li class="nav-link active">
 						{% else %}
 						<li class="nav-link">
 						{% endif %}
-						<a class="mx-1" href="/misc/join">join</a>
+						<a class="mx-1" href="{{ site.url }}{{ site.baseurl }}/misc/join">join</a>
 						</li>
 					</ul>
 				</div>
