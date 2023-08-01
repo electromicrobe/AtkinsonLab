@@ -6,7 +6,7 @@ handle: meeeeechigan
 twitter: meeeeechigan
 github: jatk
 scholar: YEvcaogAAAAJ
-image: /images/team/josh_atkinson.jpg
+image: /images/team/josh_atkinson_square.jpg
 cv: /pdfs/team/Atkinson_CV.pdf
 email: josh.t.atkinson@gmail.com
 alumni: false
