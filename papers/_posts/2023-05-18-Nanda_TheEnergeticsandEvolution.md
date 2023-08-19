@@ -3,10 +3,10 @@ layout: paper
 title: "The energetics and evolution of oxidoreductases in deep time"
 authors: Nanda V, McGuinness KN, Fehon R, Miller M, Mutter A, Nam J, AbuSalim JE, Atkinson JT, Heidari H, Losada N, Kim JD, Koder RL, Lu Y, Silberg JJ, Slusky J, and Falkowski P
 year: 2023
-ref: Nanda et al. 2023. Authorea
-journal: "Authorea"
+ref: Nanda et al. 2023. Proteins
+journal: "Proteins"
 issue: ""
-doi: 10.22541/au.168439504.41026088/v1 
+doi: 10.1002/prot.26563
 website: https://protein-redox-potential.web.app
 pdf: /pdfs/papers/2023_Nanda_The energetics and evolution of oxidoreductases in deep time.pdf
 ---
