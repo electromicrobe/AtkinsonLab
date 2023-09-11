@@ -12,6 +12,7 @@
 	<!-- Customized Bootstrap + Font Awesome + Solarized -->
 	<link href="{{ site.url }}{{ site.baseurl }}/css/style.css" rel="stylesheet" media="screen">
 
+
 	<!-- Favicon -->
 	<link rel="shortcut icon" href="{{ site.url }}{{ site.baseurl }}/images/favicon.svg"/>
 
@@ -74,40 +75,40 @@
 				<div class="collapse navbar-collapse" id="navbarNav">
 					<ul class="navbar-nav nav-pills ml-auto">
 						{% if page.categories.first == 'projects' %}
-						<li class="nav-link active">
+						<li class="nav-link active" aria-current="page">
 						{% else %}
 						<li class="nav-link">
 						{% endif %}
 						<a class="mx-1" href="{{ site.url }}{{ site.baseurl }}/projects/">research</a></li>
 						{% if page.categories.first == 'papers' %}
-						<li class="nav-link active">
+						<li class="nav-link active" aria-current="page">
 						{% else %}
 						<li class="nav-link">
 						{% endif %}
 						<a class="mx-1" href="{{ site.url }}{{ site.baseurl }}/papers/">papers</a>
 						</li>
 						{% if page.categories.first == 'blog' %}
-						<li class="nav-link active">
+						<li class="nav-link active" aria-current="page">
 						{% else %}
 						<li class="nav-link">
 						{% endif %}
 						<a class="mx-1" href="{{ site.url }}{{ site.baseurl }}/blog/">news</a>
 						</li>
 						{% if page.categories.first == 'team' %}
-						<li class="nav-link active">
+						<li class="nav-link active" aria-current="page">
 						{% else %}
 						<li class="nav-link">
 						{% endif %}
 						<a class="mx-1" href="{{ site.url }}{{ site.baseurl }}/team/">team</a></li>
 						{% if page.categories.first == 'contact' %}
-						<li class="nav-link active">
+						<li class="nav-link active" aria-current="page">
 						{% else %}
 						<li class="nav-link">
 						{% endif %}
 						<a class="mx-1" href="{{ site.url }}{{ site.baseurl }}/misc/contact">contact</a>
 						</li>
 						{% if page.categories.first == 'join' %}
-						<li class="nav-link active">
+						<li class="nav-link active" aria-current="page">
 						{% else %}
 						<li class="nav-link">
 						{% endif %}
@@ -137,7 +138,7 @@
 		<div class="pad-left">
 		<div class="float-lg-right" style="vertical-align: bottom; display: table-cell;">
 		  <a class="off" href="https://www.princeton.edu/">
-			<img width=300 src="{{ site.url }}{{ site.baseurl }}/images/logos/pu-logo.svg">
+			<img alt = "Princeton University" width=300 src="{{ site.url }}{{ site.baseurl }}/images/logos/pu-logo.svg">
 		  </a>
 		  <div class="spacer"></div>
 		  <div class="spacer"></div>

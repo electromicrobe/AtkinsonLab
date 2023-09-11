@@ -1,4 +1,4 @@
-$primary: #ED6D0B;
+$primary: #E77500;
 $gray: #555;
 $gray-light: #777;
 $line-height-base: 1.6;
@@ -151,7 +151,7 @@ b, strong {
 
 .nav-brand a:hover {
   color: $primary;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 .nav-link a {
@@ -160,7 +160,7 @@ b, strong {
 
 .nav-link a:hover {
   color: $primary;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 .navbar-toggler {
@@ -206,14 +206,14 @@ b, strong {
 }
 
 .paperlink {
-	font-size: 20px;
+	font-size: 24px;
 	font-weight: 300;
 	line-height: 26px;
-	color: #ED6D0B;
+	color: #E77500;
 	/* Aleo */
 }
 .note {
-	font-size: 18px;
+	font-size: 20px;
 	font-weight: 300;
 	line-height: 20px;
 	/* Museo */
@@ -227,9 +227,9 @@ b, strong {
 }
 
 .smallnote {
-	font-size: 14px;
+	font-size: 18px;
 	font-weight: 300;
-	line-height: 16px;
+	line-height: 18px;
 	/* Museo */
 }
 
@@ -279,6 +279,7 @@ p {
 a.off {
 	color: inherit;
 }
+
 
 pre {
     overflow-x: auto;
