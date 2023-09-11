@@ -55,7 +55,7 @@ categories:
           <br>
           <i>{{ paper.journal }}</i> {{ paper.issue }} 
           {% if paper.pdf %}
-            <a alt="{{ paper.title }}, PDF file download" class="off" href="{{ site.url }}{{ site.baseurl }}{{ paper.pdf }}"><i class="fa fa-file-pdf-o fa-fw"></i></a>
+            <a class="off" href="{{ site.url }}{{ site.baseurl }}{{ paper.pdf }}"><i class="fa fa-file-pdf-o fa-fw" alt="{{ paper.title }}, PDF file download"></i></a>
           {% endif %}
 			    {% if paper.supplement %}
             <!-- Insert supplement link -->
@@ -64,10 +64,10 @@ categories:
             <a class="off" href="https://doi.org/{{ paper.doi }}"><i class="fa fa-external-link fa-fw"></i></a> 
           {% endif %} -->
           {% if paper.github %}
-            <a alt = "{{ paper.title }}, GitHub link" class="off" href="{{ paper.github }}"><i class="fa fa-github-alt fa-fw"></i></a>
+            <a class="off" href="{{ paper.github }}"><i class="fa fa-github-alt fa-fw" alt = "{{ paper.title }}, GitHub link"></i></a>
           {% endif %}
           {% if paper.website %}
-            <a alt = "{{ paper.title }}, Website link" class="off" href="{{ paper.website }}"><i class="fa fa-globe fa-fw"></i></a>
+            <a class="off" href="{{ paper.website }}"><i class="fa fa-globe fa-fw" alt = "{{ paper.title }}, Website link"></i></a>
           {% endif %}
         </p>
       </div>
