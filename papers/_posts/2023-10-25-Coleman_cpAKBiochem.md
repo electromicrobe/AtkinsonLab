@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "The biochemical impact of extracting an embedded adenylate kinase domain using circular permutation"
-authors: "Coleman T, Shin J, Silberg JJ, Shamoo Y, and Atkinson JT
+authors: "Coleman T, Shin J, Silberg JJ, Shamoo Y, and Atkinson JT"
 year: 2023
 ref: Coleman et al. 2023. bioRxiv.
 journal: "bioRxiv"

@@ -5,7 +5,6 @@ authors: "Zhao F, Niman CM, Ostovar G, Chavez MS, Atkinson JT, Bonis BM, Gralnic
 year: 2023
 ref: Zhao et al. 2023. bioRxiv
 journal: "bioRxiv"
-issue: ""
 doi: 10.1101/2023.12.02.569691
 pdf: https://www.biorxiv.org/content/10.1101/2023.12.02.569691v1.full.pdf
 ---
