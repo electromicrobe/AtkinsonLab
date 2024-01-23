@@ -114,6 +114,13 @@
 						{% endif %}
 						<a class="mx-1" href="{{ site.url }}{{ site.baseurl }}/misc/join">join</a>
 						</li>
+						{% if page.categories.first == 'internal' %}
+						<li class="nav-link active" aria-current="page">
+						{% else %}
+						<li class="nav-link">
+						{% endif %}
+						<a class="mx-1" href="https://princetonu.sharepoint.com/sites/atkinsonlabdrive">internal</a>
+						</li>
 					</ul>
 				</div>
 			</div>
