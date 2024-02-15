@@ -5,7 +5,6 @@ authors: "Coleman T, Shin J, Silberg JJ, Shamoo Y, and Atkinson JT"
 year: 2024
 ref: Coleman et al. 2024. Biochemistry.
 journal: "Biochemistry"
-pdf: https://pubs-acs-org/doi/epdf/10.1021/acs.biochem.3c00605
 doi: 10.1021/acs.biochem.3c00605
 
 ---
