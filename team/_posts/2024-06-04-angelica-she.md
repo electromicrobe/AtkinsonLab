@@ -2,7 +2,7 @@
 layout: member
 title: Angelica She
 position: BE-SURE Undergraduate
-image: /images/team/angelica_she.jpg
+image: /images/team/angelica_she.JPG
 email: as5197@princeton.edu
 alumni: false
 ---
