@@ -3,7 +3,7 @@ layout: member
 title: Paul Kreymborg
 position: Research Specialist
 github: frenebo
-image: /images/team/paul_kreymborg.jpeg
+image: /images/team/paul_kreymborg.jpg
 cv: /pdfs/team/Kreymborg_CV.pdf
 email: paul.kreymborg@princeton.edu
 alumni: false
