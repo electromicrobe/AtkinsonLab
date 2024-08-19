@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Angelica She
-position: Junior Independent Study
+position: Junior CEE Independent Study
 image: /images/team/angelica_she.jpg
 email: as5197@princeton.edu
 alumni: false
