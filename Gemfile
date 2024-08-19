@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 # jekyll
-gem "jekyll", "4.2.0"
+gem "jekyll", "4.3.2"
 
 # katex
 gem "execjs"
@@ -10,9 +10,15 @@ gem "execjs"
 gem 'octokit'
 gem 'netrc'
 
+# fetching URIs
+gem 'down'
+
 # Twitter
 gem 'jekyll-twitter-plugin'
 
 # Install required dependency that is no longer bundled with Ruby 3.
 # For more details, see https://github.com/jekyll/jekyll/issues/8523
 gem 'webrick'
+
+# gzipping assets
+gem 'jekyll-gzip'

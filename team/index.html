@@ -19,18 +19,18 @@ categories:
 	{% if member.alumni != true %}
     {% cycle 'add rows': '<div class="row">', '', '' %}
 		<div class="col-lg-4 memberbox">
-			<div class="media">
+			<div class="membermedia">
   				<a class="float-left" href="{{ member.url }}">
     				<!-- <img alt="Image of member" width=200 class="team-image rounded-circle" src="{{ site.url }}{{ site.baseurl }}{{ member.image }}"> -->
-					<img alt="Image of member" width=200 class="team-image rounded-circle" src="{{ member.image }}">
+					<img alt="Image of member" class="team-image rounded-circle" src="{{ member.image }}">
   				</a>
- 			 	<div class="media-body">
+ 			 	<div class="memberbody">
+					<div class="bigspacer"></div>
+					<div class="bigspacer"></div>
     				<div class="head mb-1"><a href="{{ site.url }}{{ site.baseurl }}{{ member.url }}" class="off">{{ member.title }}</a></div>
     				<p class="note">{{ member.position }}</p>
   				</div>
 			</div>
-			<div class="bigspacer"></div>
-			<div class="bigspacer"></div>
         </div>
     {% cycle 'close rows': '', '', '</div>' %}
     {% endif %}
@@ -51,18 +51,16 @@ categories:
 {% if member.alumni == true %}
     {% cycle 'add rows 2': '<div class="row">', '', '' %}
 		<div class="col-lg-4 memberbox">
-			<div class="media">
-
-  				<a class="pull-left" href="{{ member.url }}">
-    				<img alt="Image of member" width=200 class="team-image rounded-circle" src="{{ site.url }}{{ site.baseurl }}{{ member.image }}">
+			<div class="membermedia">
+  				<a class="float-left" href="{{ member.url }}">
+    				<!-- <img alt="Image of member" width=200 class="team-image rounded-circle" src="{{ site.url }}{{ site.baseurl }}{{ member.image }}"> -->
+					<img alt="Image of member" class="team-image rounded-circle" src="{{ member.image }}">
   				</a>
-
- 			 	<div class="media-body">
-    				<div class="head media-heading"><a href="{{ site.url }}{{ site.baseurl }}{{ member.url }}" class="off">{{ member.title }}</a></div>
+ 			 	<div class="memberbody">
+    				<div class="head mb-1"><a href="{{ site.url }}{{ site.baseurl }}{{ member.url }}" class="off">{{ member.title }}</a></div>
     				<p class="note">{{ member.position }}</p>
   				</div>
 			</div>
-			<div class="bigspacer"></div>
         </div>
     {% cycle 'close rows 2': '', '', '</div>' %}
     {% endif %}

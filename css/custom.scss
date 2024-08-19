@@ -246,10 +246,7 @@ b, strong {
   font-size: 13px;
 }
 
-.team-image{
-	padding-right: 0.6rem;
 
-}
 /* other */
 
 body {
@@ -366,6 +363,18 @@ blockquote {
 }
 
 .memberbox {
+	height: 200px;
+}
+
+.membermedia {
+}
+
+.memberbody {
+	height: 200px;
+}
+.team-image{
+	width: 160px;
+	padding-right: 0.6rem;
 
 }
 
