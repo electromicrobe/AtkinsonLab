@@ -10,6 +10,7 @@ image: /images/team/josh_atkinson.jpg
 cv: /pdfs/team/Atkinson_CV.pdf
 email: joshatkinson@princeton.edu
 alumni: false
+date: 2024-01-01 
 ---
 
 I'm an Assistant Professor at [Princeton University](https://www.princeton.edu/) in the [Department of Civil and Environmental Engineering](https://cee.princeton.edu/) and the [Omenn-Darling Bioengineering Institute](https://bioengineering.princeton.edu/).
