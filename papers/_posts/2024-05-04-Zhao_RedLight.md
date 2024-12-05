@@ -6,7 +6,6 @@ year: 2024
 ref: Zhao et al. 2024. ACS Syn. Biol.
 journal: "ACS Synthetic Biology"
 doi: 10.1021/acssynbio.3c00684
-pdf: https://doi.org/10.1021/acssynbio.3c00684
 ---
 
 ## Abstract
