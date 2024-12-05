@@ -1,12 +1,12 @@
 ---
 layout: paper
-title: "A red light-induced genetic system for control of extracellular electron transfer"
+title: "Red-Light-Induced Genetic System for Control of Extracellular Electron Transfer"
 authors: "Zhao F, Niman CM, Ostovar G, Chavez MS, Atkinson JT, Bonis BM, Gralnick JA, El-Naggar MY, and Boedicker JQ"
-year: 2023
-ref: Zhao et al. 2023. bioRxiv
-journal: "bioRxiv"
-doi: 10.1101/2023.12.02.569691
-pdf: https://www.biorxiv.org/content/10.1101/2023.12.02.569691v1.full.pdf
+year: 2024
+ref: Zhao et al. 2024. ACS Syn. Biol.
+journal: "ACS Synthetic Biology"
+doi: 10.1021/acssynbio.3c00684
+pdf: https://doi.org/10.1021/acssynbio.3c00684
 ---
 
 ## Abstract
