@@ -5,7 +5,7 @@ position: CEE Senior Thesis
 image: /images/team/emma_wachem.jpg
 email: ev1107@princeton.edu
 alumni: false
-date: 2024-09-03
+date: 2024-09-06
 ---
 
 I am a Senior majoring in Civil and Environmental Engineering and am joining the Atkinson lab for my thesis. A lot of my coursework has been around water quality, and I joined the lab as I was interested in researching from a more biological perspective.
