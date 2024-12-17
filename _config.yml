@@ -1,7 +1,7 @@
 name: Atkinson Lab Research
 description: Science updates from the Atkinson lab at the Princeton
 url: https://atkinson.lab.princeton.edu
-# baseurl: /AtkinsonLab t
+# baseurl: /AtkinsonLab 
 
 markdown: kramdown
 permalink: /:categories/:title/
