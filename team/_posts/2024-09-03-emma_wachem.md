@@ -13,4 +13,4 @@ enddate: 2025-05-06
 I am a Senior majoring in Civil and Environmental Engineering and am joining the Atkinson lab for my thesis. A lot of my coursework has been around water quality, and I joined the lab as I was interested in researching from a more biological perspective.
 Beyond academics, I’m an active member of the Princeton Women’s rowing team. When I’m not in the lab or on the water, I enjoy going to the gym, getting 8 hours of sleep and hanging out with friends.
 
-Emma did her CEE senior thesis titled "Mobilizing the PFAS-Degrading Gene from Acidimicrobium Sp. Strain A6: A Strategy for Breaking Down PFAS in Anaerobic Digesters" in 2024-25
+Emma did her CEE senior thesis titled "Mobilizing the PFAS-Degrading Gene from Acidimicrobium Sp. Strain A6: A Strategy for Breaking Down PFAS in Anaerobic Digesters" in 2024-25. Emma is now working as a Dam Safety Engineer in the Hydrology and Hydraulics Department at Colliers Engineering and Design. 
