@@ -5,7 +5,7 @@ position: Visiting Researcher <br> U.Paris-Saclay
 image: /images/team/yves_lm.jpg
 cv: /pdfs/team/Loiseau--Marchand_CV.pdf
 email: yl6730@princeton.edu
-alumni: false
+alumni: true
 date: 2024-09-05 #2024-04-15
 ---
 

@@ -4,7 +4,7 @@ title: Helen Barkley
 position: CBE Sophomore I.S.
 image: /images/team/helen_barkley.jpg
 email: hb3462@princeton.edu
-alumni: false
+alumni: true
 date: 2025-01-27
 ---
 

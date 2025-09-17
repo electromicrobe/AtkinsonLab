@@ -4,7 +4,7 @@ title: Geoffrey Enwere
 position: BE-SURE Summer Intern
 image: /images/team/geoffrey_enwere.jpg
 email: genwere@mit.edu
-alumni: false
+alumni: true
 date: 2025-06-01
 ---
 
