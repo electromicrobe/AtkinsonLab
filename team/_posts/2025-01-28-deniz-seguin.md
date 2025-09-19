@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Deniz Sezgin
-position: CHM Junior I.S.
+position: CHM Senior Thesis
 image: /images/team/deniz_sezgin.jpg
 email: denizsezgin@princeton.edu
 alumni: false

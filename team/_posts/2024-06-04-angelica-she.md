@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Angelica She
-position: CEE Junior I.S.
+position: CEE Senior Thesis
 image: /images/team/angelica_she.jpg
 email: as5197@princeton.edu
 alumni: false
