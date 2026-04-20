@@ -479,6 +479,7 @@ blockquote {
   --table-bg: #ffffff;
   --table-striped-bg: #f9f9f9;
   --table-border: #dee2e6;
+  --logo-pu: url('/images/logos/pu-logo.svg');
 }
 
 @media (prefers-color-scheme: dark) {
@@ -499,6 +500,7 @@ blockquote {
     --table-bg: #161616;
     --table-striped-bg: #1b1b1b;
     --table-border: #333;
+    --logo-pu: url('/images/logos/pu-logo-dark.svg');
   }
 }
 

@@ -145,7 +145,7 @@
 		<div class="pad-left">
 		<div class="float-lg-right" style="vertical-align: bottom; display: table-cell;">
 		  <a class="off" href="https://www.princeton.edu/">
-			<img alt = "Princeton University" width=300 src="{{ site.url }}{{ site.baseurl }}/images/logos/pu-logo.svg">
+			<img alt = "Princeton University" width=300 src="{{ site.url }}{{ site.baseurl }}/images/logos/pu-logo.svg" class="logo-pu" data-logo-var="--logo-pu">
 		  </a>
 		  <div class="spacer"></div>
 		  <div class="spacer"></div>
@@ -160,7 +160,7 @@
 		</div>
 		{% endfor %} -->
 		<div class="col-sm-4">
-			© 2024 The Trustees of Princeton University
+			© 2026 The Trustees of Princeton University
 		<div class="spacer"></div>
 		</div>
 		<div class="col-sm-4"> 
@@ -184,5 +184,27 @@
 	</div>
 
 	
+<script>
+// Update logo src based on CSS custom properties (light/dark mode)
+function updateLogos() {
+  document.querySelectorAll('[data-logo-var]').forEach(img => {
+    const varName = img.dataset.logoVar;
+    const computedStyle = getComputedStyle(document.documentElement);
+    const logoUrl = computedStyle.getPropertyValue(varName).trim();
+    // Extract URL from url(...) format
+    const match = logoUrl.match(/url\(['"]?([^'"]+)['"]?\)/);
+    if (match) {
+      const newSrc = match[1];
+      if (img.src !== newSrc && !img.src.includes(newSrc)) {
+        img.src = newSrc;
+      }
+    }
+  });
+}
+
+// Run on page load and listen for theme changes
+updateLogos();
+window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', updateLogos);
+</script>
 </body>
 </html>
