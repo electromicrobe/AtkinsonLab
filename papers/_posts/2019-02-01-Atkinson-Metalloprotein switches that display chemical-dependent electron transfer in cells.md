@@ -8,7 +8,6 @@ journal: "Nature Chemical Biology"
 issue: "15: 189-195"
 doi: 10.1038/s41589-018-0192-3
 pdf: /pdfs/papers/2019_Atkinson JT_Metalloprotein switches that display chemical-dependent electron transfer in cells.pdf
-featured: True
 ---
 
 ## Abstract

@@ -6,6 +6,7 @@ year: 2026
 ref: Wang S 2026. NanoFutures
 journal: "NanoFutures"
 doi: 10.1088/2399-1984/ae58dc
+featured: True
 ---
 
 ## Abstract
