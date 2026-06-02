@@ -4,7 +4,7 @@ title: Deniz Sezgin
 position: CHM Senior Thesis
 image: /images/team/deniz_sezgin.jpg
 email: denizsezgin@princeton.edu
-alumni: false
+alumni: true
 date: 2025-01-27
 ---
 

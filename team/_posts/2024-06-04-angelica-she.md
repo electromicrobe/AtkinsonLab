@@ -4,7 +4,7 @@ title: Angelica She
 position: CEE Senior Thesis
 image: /images/team/angelica_she.jpg
 email: as5197@princeton.edu
-alumni: false
+alumni: true
 date: 2024-09-06
 ---
 
