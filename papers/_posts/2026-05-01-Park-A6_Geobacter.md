@@ -6,6 +6,7 @@ year: 2026
 ref: Park J 2026. Geochimica et Cosmochimica Acta
 journal: "Geochimica et Cosmochimica Acta"
 doi: 10.1016/j.gca.2026.03.050
+pdf: /pdfs/papers/2026_Park_Mineral Transformations.pdf
 ---
 
 ## Abstract
