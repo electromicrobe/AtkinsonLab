@@ -7,6 +7,7 @@ ref: Hwang MS 2026. Current Opinion in Chemical Engineering
 journal: "Current Opinion in Chemical Engineering"
 doi: 10.1016/j.coche.2026.101269
 pdf: /pdfs/papers/2026_Hwang_Engineering biology-enabled sensors f... 2026 - Engineering biology-enabled sensors for environmental monitoring.pdf
+featured: True
 ---
 
 ## Abstract
