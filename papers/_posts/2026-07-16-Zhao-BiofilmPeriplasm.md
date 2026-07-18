@@ -6,6 +6,7 @@ year: 2026
 ref: Zhao F 2026. mBio
 journal: "mBio"
 doi: 10.1128/mbio.01264-26
+pdf: /pdfs/papers/2026_zhao_light-directed-biofilm-formation-reveals-the-functional-contributions-of-periplasmic-cytochromes-to-the.pdf
 ---
 
 ## Abstract
