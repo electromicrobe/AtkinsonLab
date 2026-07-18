@@ -3,9 +3,9 @@ layout: paper
 title: "Artificial sediments enable reproducible cultivation and recapitulate ecological interactions of cable bacteria"
 authors: "Aiyer K., Guo Y., Plum-Jensen L.E., Hagen Van T., Sudo M.L., Bonné R., Chavez M., El-Naggar M.Y., Nielsen L.P., Marshall I.P.G., Schramm A., Atkinson J.T."
 year: 2026
-ref: Aiyer K 2026. bioRxiv
-journal: "bioRxiv"
-doi: 10.64898/2026.04.15.718496
+ref: Aiyer K 2026. ISME Comm.
+journal: "ISME Communications"
+doi: 10.1093/ismeco/ycag199
 featured: True
 ---
 
