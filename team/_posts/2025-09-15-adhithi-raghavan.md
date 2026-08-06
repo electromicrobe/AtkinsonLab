@@ -4,7 +4,7 @@ title: Adhithi Raghavan
 position: Postdoctoral Research Associate
 image: /images/team/adhithi-raghavan.jpg
 email: ar8201@princeton.edu
-alumni: false
+alumni: true
 date: 2024-08-02 #2025-09-15
 ---
 
