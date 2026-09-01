@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Caroline Johnson
-position: HMEI Summer Intern
+position: CBE Junior I.W. 
 image: /images/team/caroline_johnson.jpg
 email: cj4851@princeton.edu
 alumni: false
