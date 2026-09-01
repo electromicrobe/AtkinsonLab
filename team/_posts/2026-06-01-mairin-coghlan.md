@@ -4,7 +4,7 @@ title: Mairin Coghlan
 position: BE-SURE Summer Intern
 image: /images/team/mairin_coghlan.jpg
 email: Mairin.Coghlan@colorado.edu
-alumni: false
+alumni: true
 date: 2026-06-02
 ---
 
