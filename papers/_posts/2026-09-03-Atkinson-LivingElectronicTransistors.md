@@ -6,7 +6,7 @@ year: 2026
 ref: Atkinson JT and Chavez MC 2026. bioRxiv
 journal: "bioRxiv"
 doi: 10.64898/2026.09.01.748419
-pdf: https://www.biorxiv.org/content/10.64898/2026.09.01.748419v1.full.pdf
+pdf: /pdfs/papers/2026_Atkinson_LivingElectronicTransistors.pdf
 featured: True
 ---
 
