@@ -2,6 +2,7 @@
 layout: member
 title: Caroline Johnson
 position: CBE Junior I.W. 
+category: UG
 image: /images/team/caroline_johnson.jpg
 email: cj4851@princeton.edu
 alumni: false

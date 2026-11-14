@@ -2,6 +2,7 @@
 layout: member
 title: Keziah Chang
 position: A*Star Fellow <br> BNG Ph.D. Student
+category: Grad
 image: /images/team/keziah_chang.jpg
 email: kc3560@princeton.edu
 alumni: false

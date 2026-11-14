@@ -2,6 +2,7 @@
 layout: member
 title: Emma van Wachem
 position: CEE Senior Thesis
+category: UG
 image: /images/team/emma_wachem.jpg
 email: ev1107@princeton.edu
 level: Undergraduate

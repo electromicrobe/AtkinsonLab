@@ -2,9 +2,10 @@
 layout: member
 title: Supraj Gunda
 position: HMEI Summer Intern
+category: UG
 image: /images/team/supraj_gunda.jpg
 email: sg0666@princeton.edu
-alumni: true
+alumni: false
 date: 2026-06-01
 ---
 

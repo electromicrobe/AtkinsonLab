@@ -2,6 +2,7 @@
 layout: member
 title: Spencer Bauman
 position: CBE Senior Thesis
+category: UG
 image: /images/team/spencer_bauman.jpg
 email: sb8537@princeton.edu
 level: Undergraduate

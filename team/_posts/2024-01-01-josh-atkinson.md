@@ -1,7 +1,8 @@
 ---
 layout: member
 title: Josh Atkinson
-position: Principal investigator
+position: Assistant Professor 
+category: PI
 handle: meeeeechigan
 twitter: meeeeechigan
 github: jatk

@@ -2,6 +2,7 @@
 layout: member
 title: Mi So Hwang
 position: CEE Ph.D. Student
+category: Grad
 image: /images/team/miso_hwang.jpg
 email: mh6412@princeton.edu
 alumni: false

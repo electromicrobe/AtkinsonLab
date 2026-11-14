@@ -1,0 +1,14 @@
+---
+layout: paper
+title: "Agentic Laboratories of the Future: Towards World Models for Scientific Discovery"
+authors: "Fu K, Lyu L, Li S, Huang S, Wu K, Xu S, Zheng J, Liu X, Liu S, Dickerson J, Wu M, Barbone G, Liu Y, Fan L, Zhu Y, Davis M, Jiang K, Yang S, Kuang X, Luo Y, Dominici F, Curtis C, Qiu X, Abadie A, Uhler C, Tang M, Wu J C, Li J, Toettcher J, Avalos J L, Rojansky R, Zhao H, Ioannidis J P A, Rand B P, Lundberg E, Rosen A S, Liu Z, Kelley S, Xiong C, Engelhardt B E, Montine T, Theodoris C V, Pollard K S, Li F, Zhang X, Peng T, Basov D, Qian X, Xing E, Yazdani A, Leskovec J, Shah N H, Ba J, Cohen D J, Conway J, Kang Y, Adams R, Wu C, Atkinson JT, Mao X, Carter E, Zheng C, Wang A, Kim C, Wen Y, Su Y, Sangha H, Hong E, Choi A, Raina R, Goodarzi H, Fordyce P M, Steinmetz L, Liu J T, Yang E, Satpathy A T, Chang H Y, Shipman S, Yin X, Musen M A, Bao Z, Perona P, Wu S, Brangwynne C, Cong L, Wang M"
+year: 2026
+ref: Fu K 2026. Preprints
+journal: "Preprints"
+doi: 10.20944/preprints202608.0213.v2
+pdf: "/pdfs/papers/2026_Fu_Agentic laboratories of the future - Towards world models for scientific discovery.pdf"
+---
+
+## Abstract
+
+Advances in scientific AI have accelerated hypothesis generation, prediction, and experimentaldesign, but translating these capabilities into reliable physical experimentation remains a majorbottleneck in scientific discovery. Although automation, high-throughput experimentation,foundation models, and cloud infrastructure have accelerated individual stages of the scientificworkflow, they have not unified the discovery process. Scientists must still coordinate betweencomputational models and physical laboratory systems to translate scientific designs into executableexperiments and ensure their results are reliable. We argue that the next generation of laboratorieswill be agentic: environments in which scientists, AI systems, equipment and robotic platformsoperate as collaborative discovery partners. We propose an architecture built around twocomplementary components: an agentic foundation that translates scientific designs into coordinatedexecution plans, and an evolving laboratory world model that represents physical state, predictsaction outcomes, and incorporates experimental feedback. Together, they connect computationalreasoning to observable and verifiable physical execution. Multimodal perception, robotics, andhuman–AI interfaces can make laboratory actions and evolving experimental conditions accessibleto these systems, supporting adaptive execution and learning. We further propose an evaluationframework centered on physical grounding, execution fidelity, scientific validity, and adaptivecoordination under human oversight, rather than autonomy alone. This Perspective outlines howagentic laboratories could connect scientific reasoning, physical experimentation, and trustworthyevidence within a human-in-the-lead discovery loop.

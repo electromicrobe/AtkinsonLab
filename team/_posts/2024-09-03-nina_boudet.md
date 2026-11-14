@@ -2,6 +2,7 @@
 layout: member
 title: Nina Boudet
 position: CBE Senior Thesis
+Category: UG
 image: /images/team/nina_boudet.jpg
 email: nb8803@princeton.edu
 level: Undergraduate

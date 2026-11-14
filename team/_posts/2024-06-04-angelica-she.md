@@ -2,6 +2,7 @@
 layout: member
 title: Angelica She
 position: CEE Senior Thesis
+Category: UG
 image: /images/team/angelica_she.jpg
 email: as5197@princeton.edu
 alumni: true

@@ -2,6 +2,7 @@
 layout: member
 title: Kayla Aksan
 position: CEE Ph.D. Student
+category: Grad
 image: /images/team/kayla_aksan.jpg
 email: ka6018@princeton.edu
 alumni: false

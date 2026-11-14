@@ -1,7 +1,8 @@
 ---
 layout: member
 title: Yves Loiseau--Marchand
-position: Visiting Researcher <br> U.Paris-Saclay 
+position: Visiting Master's Student <br> U.Paris-Saclay 
+category: Grad
 image: /images/team/yves_lm.jpg
 cv: /pdfs/team/Loiseau--Marchand_CV.pdf
 email: yl6730@princeton.edu

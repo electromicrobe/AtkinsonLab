@@ -2,6 +2,7 @@
 layout: member
 title: Helen Barkley
 position: CBE Sophomore I.S.
+category: UG
 image: /images/team/helen_barkley.jpg
 email: hb3462@princeton.edu
 alumni: true

@@ -1,7 +1,8 @@
 ---
 layout: member
 title: Aditya Prajapati 
-position: Research Assistant
+position: ECE Sophomore I.W.
+category: UG
 image: /images/team/adi_prajapati.jpg
 email: ap4801@princeton.edu
 alumni: false

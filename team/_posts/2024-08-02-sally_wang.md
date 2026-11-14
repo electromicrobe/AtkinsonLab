@@ -2,6 +2,7 @@
 layout: member
 title: Sally Wang
 position: PBI2 Postdoctoral Fellow
+category: Postdoc
 image: /images/team/sally_wang.jpg
 email: sallywang@princeton.edu
 alumni: false

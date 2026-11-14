@@ -2,6 +2,7 @@
 layout: member
 title: Paul Kreymborg
 position: Research Specialist
+category: Staff
 github: frenebo
 image: /images/team/paul_kreymborg.jpg
 cv: /pdfs/team/Kreymborg_CV.pdf

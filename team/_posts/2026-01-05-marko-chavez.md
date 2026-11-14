@@ -2,6 +2,7 @@
 layout: member
 title: Marko Chavez
 position: Postdoctoral Research Associate
+category: Postdoc
 image: /images/team/marko-chavez.jpg
 email: mc1013@princeton.edu
 alumni: false

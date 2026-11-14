@@ -2,6 +2,7 @@
 layout: member
 title: Mairin Coghlan
 position: BE-SURE Summer Intern
+category: UG
 image: /images/team/mairin_coghlan.jpg
 email: Mairin.Coghlan@colorado.edu
 alumni: true

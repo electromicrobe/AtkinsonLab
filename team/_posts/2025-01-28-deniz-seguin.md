@@ -2,6 +2,7 @@
 layout: member
 title: Deniz Sezgin
 position: CHM Senior Thesis
+category: UG
 image: /images/team/deniz_sezgin.jpg
 email: denizsezgin@princeton.edu
 alumni: true

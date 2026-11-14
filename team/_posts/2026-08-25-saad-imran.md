@@ -2,6 +2,7 @@
 layout: member
 title: Saad Imran
 position: Postdoctoral Research Associate
+category: Postdoc
 image: /images/team/saad-imran.jpg
 email: smimran@princeton.edu
 orcid: 0000-0002-2416-016X

@@ -2,6 +2,7 @@
 layout: member
 title: Stacie Dressel
 position: NDSEG Fellow <br> CBE Ph.D. Student 
+category: Grad
 image: /images/team/stacie_dressel.jpg
 email: ad9887@princeton.edu
 alumni: false

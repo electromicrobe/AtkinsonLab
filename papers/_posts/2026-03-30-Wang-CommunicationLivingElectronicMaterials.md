@@ -7,6 +7,7 @@ ref: Wang S 2026. NanoFutures
 journal: "NanoFutures"
 doi: 10.1088/2399-1984/ae58dc
 featured: True
+pdf: "/pdfs/papers/2026_Wang_Nano_Futures_10_022001.pdf"
 ---
 
 ## Abstract

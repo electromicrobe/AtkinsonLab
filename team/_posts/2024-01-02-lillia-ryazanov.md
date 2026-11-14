@@ -2,6 +2,7 @@
 layout: member
 title: Lillia Ryazanov
 position: Lab Manager
+category: Staff
 image: /images/team/lillia_ryazanov.jpg
 email: ryazanov@princeton.edu
 alumni: true
