@@ -7,6 +7,9 @@ ref: Aiyer K 2026. ISME Comm.
 journal: "ISME Communications"
 doi: 10.1093/ismeco/ycag199
 featured: True
+pdf: "/pdfs/papers/2026_ Aiyer_Artificial sediments enable reproducible cultivation and recapitulate ecological interactions of cable bacteria.pdf"
+
+
 ---
 
 ## Abstract
